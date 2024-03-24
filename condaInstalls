@@ -1,0 +1,1 @@
+Conda install: conda install pytorch::pytorch torchvision torchaudio -c pytorch
