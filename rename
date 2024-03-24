@@ -1,0 +1,16 @@
+import os
+
+# Function to rename cat images in the specified directory
+def rename_cat_images(directory):
+    image_number = 0
+    for filename in os.listdir(directory):
+        # Generate the new filename
+        new_filename = f"cat_{image_number}.jpg"
+        # Rename the file
+        os.rename(os.path.join(directory, filename), os.path.join(directory, new_filename))
+        print(f"Renamed {filename} to {new_filename}")
+        image_number += 1
+# Example usage
+if __name__ == "__main__":
+    directory = "cats"  # Change this to the directory containing cat images
+    rename_cat_images(directory)
