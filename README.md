@@ -54,4 +54,4 @@ For future enhancement, we would consider applying transfer learning, testing ou
 
 ---
 
-_Disclaimer: The provided project link is fictional and for demonstration purposes only._
+_Disclaimer: We do not condone the use of our models to bypass Web security measures._
