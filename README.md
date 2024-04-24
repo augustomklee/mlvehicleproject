@@ -48,6 +48,9 @@ For future enhancement, we would consider applying transfer learning, testing ou
 - TensorFlow Core Image classification
 - Neural Networks in Python
 - Object Detection Algorithms and Libraries
+## Demo
+- Below is a video for how our model would predict on a CAPTCHA example
+- [https://youtu.be/DFK_gNMs7yI](https://www.youtube.com/watch?v=DFK_gNMs7yI)
 
 ## Repository
 [GitHub Project Repository](https://github.com/gutoleeofficial/mlvehicleproject)
